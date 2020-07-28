@@ -1,0 +1,9 @@
+Run the server (port 4000)
+  npm server.js
+
+Run the frontend (port 3000)
+  cd frontend
+  npm start
+
+
+The server post random data in json format and the frontend get the data using fetch.
